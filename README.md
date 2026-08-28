@@ -63,7 +63,7 @@ Enterprise Asset Management consulting (incl. a long-term Rolls-Royce engagement
 
 - Salesforce MVP (Most Valuable Professional), 2019 – 2020
 - Leader, Salesforce Developer Group Seville
-- Co-founder & co-organiser, [dreamOlé](https://trailblazercommunitygroups.com) — community-led Salesforce "Dreamin'" conference, Spain
+- Co-founder & co-organiser, [dreamOlé](https://dreamole.com) — community-led Salesforce "Dreamin'" conference, Spain
 - Conference speaker: French Touch Dreamin', North Africa Dreamin', Czech Dreamin', YeurDreamin' and other community-led events across Europe and Morocco — [watch the FTD19 talk](https://www.youtube.com/watch?v=fSD5qRIGxG4)
 - Attended Dreamforce six times (DF14, DF15, DF17, DF18, DF19, DF22), including multiple appearances as a speaker — [watch the DF17 talk](https://www.youtube.com/watch?v=KOEF_eS_w6M)
 
