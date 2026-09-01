@@ -14,7 +14,6 @@
 ![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000000?style=flat&logo=githubcopilot&logoColor=white)
 ![OpenAI GPT](https://img.shields.io/badge/OpenAI%20GPT-412991?style=flat&logo=openai&logoColor=white)
 ![Agentforce](https://img.shields.io/badge/Agentforce-8E44AD?style=flat)
-![Trailhead Ranger](https://img.shields.io/badge/Trailhead-Ranger-00A1E0?style=flat&logo=salesforce&logoColor=white)
 ![Salesforce MVP](https://img.shields.io/badge/Salesforce-MVP-orange?style=flat)
 
 ---
@@ -25,7 +24,7 @@
 
 ## 💼 Professional Summary
 
-Senior Salesforce Developer with 14+ years on the platform (19 years in IT overall), currently at Desynit, a UK-based Salesforce Partner, with experience primarily within Service Cloud and Sales Cloud. While predominantly hands-on and technical, I've consistently taken on a proactive, leading role beyond the scope of a Developer — comfortably operating as a Technical Lead and Architect, proposing solution designs and engaging directly with product owners and stakeholders at all levels of a project. An outgoing, sociable communicator with a strong appetite for public speaking and knowledge sharing, backed by full professional fluency in English — a combination that sets me apart from the average Senior Developer when it comes to stakeholder engagement. Six active Salesforce certifications spanning Platform, JavaScript, Agentforce and Data 360.
+Senior Salesforce Developer with 14+ years on the platform (19 years in IT overall), currently at Desynit, a UK-based Salesforce Partner, with experience primarily within Service Cloud and Sales Cloud. While predominantly hands-on and technical, I've consistently taken on a proactive, leading role beyond the scope of a Developer; comfortably operating as a Technical Lead and Architect, proposing solution designs and engaging directly with product owners and stakeholders at all levels of a project. An outgoing, sociable communicator with a strong appetite for public speaking and knowledge sharing, backed by full professional fluency in English; a combination that sets me apart from the average Senior Developer when it comes to stakeholder engagement. Six active Salesforce certifications spanning Platform, JavaScript, Agentforce and Data 360.
 
 ---
 
@@ -35,14 +34,14 @@ Senior Salesforce Developer with 14+ years on the platform (19 years in IT overa
 *March 2012 – Present · Bristol, UK (remote from Seville, Spain)*
 
 - Designed and built Salesforce solutions across a broad portfolio of client engagements, taking technical ownership from initial scoping through to production release and ongoing support
-- Experienced working with Agile methodologies and a strong TDD focus. Over the past year, integrated AI — mainly GitHub Copilot backed by OpenAI's GPT models — across the full project lifecycle, from state-of-the-art analysis and solution design through implementation, debugging and bug fixing, critically evaluating AI-generated output to separate genuine wins from hallucinations
+- Experienced working with Agile methodologies and a strong TDD focus. Over the past year, integrated AI (mainly GitHub Copilot backed by OpenAI's GPT models) across the full project lifecycle, from state-of-the-art analysis and solution design through implementation, debugging and bug fixing, critically evaluating AI-generated output to separate genuine wins from hallucinations
 - Full-stack Salesforce development across Apex (synchronous, asynchronous, batch, triggers), LWC and Flow (screen, record-triggered, autolaunched), plus SOQL/SOSL, Visualforce and Aura
-- Delivered multiple REST API integrations with third-party systems including SharePoint, Microsoft Graph API, Kafka services and Amazon, plus External Objects and DynamoDB external databases — underpinned by a strong, long-standing specialism in Data Integration and Data Quality
+- Delivered multiple REST API integrations with third-party systems including SharePoint, Microsoft Graph API, Kafka services and Amazon, plus External Objects and DynamoDB external databases; underpinned by a strong, long-standing specialism in Data Integration and Data Quality
 
 **Key client engagements**
 
-- **Ovo Energy** (independent UK energy supplier) — *Mar 2020 – Aug 2025 (5+ years)* — long-term embedded engagement owning DevOps on CircleCI for CI/CD and building integrations with Kafka-based services, while heavily involved in LWC and JavaScript customisation for front-end UX for agents, as well as backend processes and integrations
-- **DOJO** (payment provider) — *Jan 2026 – Jul 2026* — improved existing Flow implementations: diagnosed and fixed issues, simplified and optimised Flow logic for maintainability and performance
+- **Ovo Energy** (independent UK energy supplier) *Mar 2020 - Aug 2025 (5+ years)*: long-term embedded engagement owning DevOps on CircleCI for CI/CD and building integrations with Kafka-based services, while heavily involved in LWC and JavaScript customisation for front-end UX for agents, as well as backend processes and integrations
+- **DOJO** (payment provider) *Jan 2026 - Jul 2026*: improved existing Flow implementations: diagnosed and fixed issues, simplified and optimised Flow logic for maintainability and performance
 
 ---
 
@@ -55,7 +54,7 @@ Senior Salesforce Developer with 14+ years on the platform (19 years in IT overa
 | Junior Developer | Sadiel | Apr 2008 – Aug 2008 | Seville, Spain |
 | Roaming Databases Manager (Intern) | T-Mobile Czech Republic | Sep 2007 – Dec 2007 | Prague, Czechia |
 
-Enterprise Asset Management consulting (incl. a long-term Rolls-Royce engagement), Java-based systems integration for BBVA, and early web/telecom internships — full details on request.
+Enterprise Asset Management consulting (incl. a long-term Rolls-Royce engagement), Java-based systems integration for BBVA, and early web/telecom internships (full details on request).
 
 ---
 
@@ -75,10 +74,10 @@ Enterprise Asset Management consulting (incl. a long-term Rolls-Royce engagement
 
 ## 🌍 Community & Speaking
 
-- Attended Dreamforce a number of times, including 4 appearances as a speaker — [watch the DF17 talk](https://www.youtube.com/watch?v=KOEF_eS_w6M)
-- Conference speaker: French Touch Dreamin', North Africa Dreamin', Czech Dreamin', YeurDreamin' and other community-led events across Europe and Morocco — [watch the FTD19 talk](https://www.youtube.com/watch?v=fSD5qRIGxG4)
+- Attended Dreamforce a number of times, including 4 appearances as a speaker: [watch the DF17 talk](https://www.youtube.com/watch?v=KOEF_eS_w6M)
+- Conference speaker: French Touch Dreamin', North Africa Dreamin', Czech Dreamin', YeurDreamin' and other community-led events across Europe and Morocco: [watch the FTD19 talk](https://www.youtube.com/watch?v=fSD5qRIGxG4)
 - Leader, Salesforce Developer Group Seville
-- Co-founder & co-organiser, [dreamOlé](https://dreamole.es/) — community-led Salesforce "Dreamin'" conference, Spain
+- Co-founder & co-organiser at [dreamOlé](https://dreamole.es/), the community-led Salesforce "Dreamin'" conference, Spain
 - Salesforce MVP (Most Valuable Professional), 2019 – 2020
 
 ---
@@ -93,7 +92,7 @@ Enterprise Asset Management consulting (incl. a long-term Rolls-Royce engagement
 
 ## 📚 Education
 
-**Telecommunications Engineering** — Universidad de Sevilla, Spain (2001 – 2008)
+**Telecommunications Engineering**: Universidad de Sevilla, Spain (2001 – 2008)
 
 ## 🗣️ Languages
 
